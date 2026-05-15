@@ -24,7 +24,7 @@ Python · Swift · Objective-C · C/C++ · Frida · Hopper · otool · Scrapy ·
 ### Get in touch
 
 - akhanlari@cs.stonybrook.edu
-- [CV](https://amirhoseinkhanlari.github.io/autoCV/) · [LinkedIn](https://linkedin.com/in/)
+- [CV](https://amirhoseinkhanlari.github.io/autoCV/) · [LinkedIn](https://linkedin.com/in/amirhossein-khanlari-110545343/))
 
 <!--
 Hidden notes for future me:
