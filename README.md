@@ -10,7 +10,6 @@ My research sits at the intersection of **mobile/iOS security**, **vulnerability
 
 - **Third-party iOS app store ecosystem.** Static and dynamic analysis of 1,500+ iOS app binaries distributed outside the App Store. First-author paper under submission *(IMC '26)*.
 - **Apple In-App Purchase framework security.** Protocol-level analysis of StoreKit 1 and StoreKit 2, including MITM tampering and developer-backend attacks. Paper under submission *(IEEE S&P '26)*.
-- **Contagious Interview campaign.** Anatomy of a DPRK-attributed social-engineering chain from fake job offers to full environment compromise. First-author paper under submission *(IWCC '26)*.
 - **LLM-assisted exploit generation from SBOMs.** Parsing software bills-of-materials, matching against CVE corpora, and prompting LLMs to synthesize proof-of-concept exploits to quantify supply-chain risk.
 
 ### Interests
