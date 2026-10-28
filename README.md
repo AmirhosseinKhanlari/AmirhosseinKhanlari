@@ -1,6 +1,6 @@
 # Amirhossein Khanlari
 
-PhD student in Computer Science at **Stony Brook University**, advised by [Prof. Amir Rahmati](https://amir.rahmati.com/) in the [Ethos Lab](https://ethos.cs.stonybrook.edu/).
+PhD student in Computer Science at **Stony Brook University**, advised by [Prof. Amir Rahmati](https://amir.rahmati.com/) in the Ethos Lab.
 
 I build **LLM-powered pipelines** for **large-scale measurement** and **vulnerability discovery**, mostly on iOS: how apps protect what they sell, and how those protections fail across thousands of apps at once.
 
